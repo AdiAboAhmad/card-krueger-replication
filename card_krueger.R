@@ -1,4 +1,3 @@
-install.packages(c("tidyverse", "haven", "fixest", "knitr", "kableExtra","plm"))
 library(tidyverse)
 library(kableExtra)
 library(fixest)      
